@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/System.Collections.Generic" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/System.Collections.Generic" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/IoT_Consumer" />
+  <xs:complexType name="QueueOfIoTDataVfuG9A47">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="QueueOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/System.Collections.Generic" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="IoTData" Namespace="http://schemas.datacontract.org/2004/07/IoT_Consumer" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/IoT_Consumer" name="_array" nillable="true" type="q1:ArrayOfIoTData" />
+      <xs:element name="_head" type="xs:int" />
+      <xs:element name="_size" type="xs:int" />
+      <xs:element name="_tail" type="xs:int" />
+      <xs:element name="_version" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="QueueOfIoTDataVfuG9A47" nillable="true" type="tns:QueueOfIoTDataVfuG9A47" />
+</xs:schema>

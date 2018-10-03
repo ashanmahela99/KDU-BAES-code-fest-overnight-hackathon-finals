@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="81811f0b-aa0b-4ee1-92ba-860ac9070832" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/IoT_Consumer/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="1ebaf0e2-aa6a-4a60-a622-45e6afe74d47" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/IoT_Consumer/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="f7f782d2-cb73-4fa3-b5f7-00bc498620a7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/IoT_Consumer/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="324f305c-d6a4-4424-af1d-ccde94648b30" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/IoT_Consumer/Service1/mex" />
+    <MetadataFile FileName="System.Collections.Generic.xsd" MetadataType="Schema" ID="e7876d13-e063-4c3c-9bf3-1b4896fcd27f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/IoT_Consumer/Service1/mex" />
+    <MetadataFile FileName="IoT_Consumer.xsd" MetadataType="Schema" ID="748a2753-a6b2-4804-88a6-2e0da024b412" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/IoT_Consumer/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
