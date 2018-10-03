@@ -1,0 +1,8 @@
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\bin\Debug\IoT_Consumer.dll.config
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\bin\Debug\IoT_Consumer.dll
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\bin\Debug\IoT_Consumer.pdb
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\obj\Debug\IoT_Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\obj\Debug\IoT_Consumer.dll
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\obj\Debug\IoT_Consumer.pdb
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Kanishka Abeykoon\source\repos\SLIIT\IoT_Consumer\obj\Debug\IoT_Consumer.csprojResolveAssemblyReference.cache
