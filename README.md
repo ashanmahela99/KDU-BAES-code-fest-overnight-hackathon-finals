@@ -1,4 +1,4 @@
-### SLIIT-Code-Fest-Overnight-Hackathon
+### SLIIT-Code-Fest-Overnight-Hackathon Finals
 
 #### Team Baes
 	
